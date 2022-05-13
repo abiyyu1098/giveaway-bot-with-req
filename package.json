@@ -1,7 +1,7 @@
 {
-  "name": "impostor-giveaway",
-  "version": "1.0.0",
-  "description": "a discord giveaway bot by Narutocodm",
+  "name": "ohto-ai",
+  "version": "0.1.9",
+  "description": "a discord giveaway bot by abiyyu 1098#3371",
   "main": "index.js",
   "dependencies": {
     "config.json": "0.0.4",
@@ -27,12 +27,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NarutoCodm/GiveawayBotWithReq.git"
+    "url": "https://github.com/abiyyu1098/giveaway-bot-with-req.git
   },
   "author": "sujalgoel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NarutoCodm/GiveawayBotWithReq/issues"
+    "url": "https://github.com/abiyyu1098/giveaway-bot-with-req/issues"
   },
-  "homepage": "https://github.com/NarutoCodm/GiveawayBotWithReq/blob/main/README.md"
+  "homepage": "https://github.com/abiyyu1098/giveaway-bot-with-req/README.md"
 }
