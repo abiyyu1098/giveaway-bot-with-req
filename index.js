@@ -118,5 +118,5 @@ client.giveawaysManager.on("giveawayReactionAdded", (giveaway, member, reaction)
 add a valid token of your bot!
 */
 
-client.login('ODcyNTA5NDg4OTQxMzc5Njc0.YQq5yA.-7VN0v1k6aDUGaMG2Stc6qttIh8')
+client.login(process.env['TOKEN'])
 ///// we re doing much videos about discord stuffs make sure to subscribe and join discord server (dont join and leave cuz we re baning them and we ll add soon anti alt bots !)
